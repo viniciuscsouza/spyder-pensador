@@ -1,0 +1,8 @@
+*.pyc
+*~
+__pycache__
+.vscode
+/bot
+.bot
+.database.py
+.settings.py
